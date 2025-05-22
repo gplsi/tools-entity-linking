@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Installer info
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+
+# VSCode settings (opcional, si usas VSCode)
+.vscode/
+
+# macOS / Linux / Windows trash
+.DS_Store
+Thumbs.db
