@@ -107,9 +107,3 @@ Este proyecto hace uso de los siguientes recursos de terceros:
 Estas dependencias no se redistribuyen directamente, sino que se usan vía instalación o acceso por API.
 
 ---
-
-## 📄 Licencia
-
-Este proyecto está licenciado bajo los términos de la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----

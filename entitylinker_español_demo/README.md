@@ -71,6 +71,3 @@ Este proyecto utiliza software de terceros:
 
 ---
 
-## 📄 Licencia
-
-Consulta el archivo [`LICENSE`](LICENSE) para ver los términos de uso del proyecto.
